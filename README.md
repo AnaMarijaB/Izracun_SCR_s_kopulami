@@ -5,7 +5,7 @@ Ta repozitorij vsbuje empirični del magistrske naloge, dostopne na povezavi --.
 ## Podatki
 - **Vir podatkov**: Obrazec S.05.01 (Premije, škode in odhodki po vrstah poslovanja) iz letnih poročil o solventnosti in finančnem položaju slovenskih zavarovalnic in pozavarovalnic (Sava, Triglav, Grawe, Generali, Sava Re, Triglav Re). 
 - V mapi `Podatki` so Excel dokumenti po analiziranih letih, ki imajo za vsako podajtje svoj zavihek. Vsa vsakem zavihku je dodana povezava do originalnega dokmenta in staran, kjer se nahaja obrazec S.05.01.02.
-- Iz podatkov izračunani kombinirani količniki (CR – angl. *combined ratio*) so shranjeni v datoteki `podatki.csv` in služijo kot vhod za R kodo, kjer z njimi modeliramo tveganje. Kombinirani količnik je definiran kot:
+- Iz podatkov izračunani kombinirani količniki (CR – angl. *Combined Ratio*) so shranjeni v datoteki `podatki.csv` in služijo kot vhod za R kodo, kjer z njimi modeliramo tveganje. Kombinirani količnik je definiran kot:
 
 $$
 CR_k = \frac{NCE_k + OE_k}{NP_k},
