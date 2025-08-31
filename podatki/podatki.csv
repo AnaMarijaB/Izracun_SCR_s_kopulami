@@ -1,0 +1,421 @@
+﻿Postavka;leto;zavarovalnica;Segment;Znesek;Segment_slo;Segment_ang;Segment_num;kratica
+PREMIJA;2018;Sava;C0040;110811;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2018;Sava;C0050;100813;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2018;Sava;C0070;95443;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2018;Sava;C0080;20292;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2018;Sava;C0110;11510;Zavarovanje pomoči;assistance;8;ZP
+CR;2018;Sava;C0040;0,877313624;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2018;Sava;C0050;1,004800968;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2018;Sava;C0070;1,030269375;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2018;Sava;C0080;0,451754386;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2018;Sava;C0110;1,097741095;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2018;Triglav;C0040;81012;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2018;Triglav;C0050;104151;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2018;Triglav;C0070;91679;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2018;Triglav;C0080;26007;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2018;Triglav;C0110;12073;Zavarovanje pomoči;assistance;8;ZP
+CR;2018;Triglav;C0040;0,838172123;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2018;Triglav;C0050;0,955007633;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2018;Triglav;C0070;0,941360617;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2018;Triglav;C0080;0,173453301;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2018;Triglav;C0110;1,229934565;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2018;Generali;C0040;17707;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2018;Generali;C0050;18030;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2018;Generali;C0070;15457;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2018;Generali;C0080;2905;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2018;Generali;C0110;1936;Zavarovanje pomoči;assistance;8;ZP
+CR;2018;Generali;C0040;0,787202801;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2018;Generali;C0050;1,163560732;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2018;Generali;C0070;0,942614996;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2018;Generali;C0080;0,627538726;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2018;Generali;C0110;0,976756198;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2018;Grawe;C0040;2992;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2018;Grawe;C0050;2488;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2018;Grawe;C0070;3051;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2018;Grawe;C0080;261;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2018;Grawe;C0110;488;Zavarovanje pomoči;assistance;8;ZP
+CR;2018;Grawe;C0040;1,080882353;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2018;Grawe;C0050;1,58159164;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2018;Grawe;C0070;0,846279908;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2018;Grawe;C0080;0,394636015;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2018;Grawe;C0110;1,004098361;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2018;Sava Re;C0040;12775;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2018;Sava Re;C0050;16940;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2018;Sava Re;C0070;52191;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2018;Sava Re;C0080;5747;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2018;Sava Re;C0110;0;Zavarovanje pomoči;assistance;8;ZP
+CR;2018;Sava Re;C0040;0,253072407;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2018;Sava Re;C0050;0,813754427;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2018;Sava Re;C0070;0,866126344;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2018;Sava Re;C0080;0,458848095;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2018;Sava Re;C0110;0;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2018;Triglav Re;C0040;8823;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2018;Triglav Re;C0050;4681;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2018;Triglav Re;C0070;45169;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2018;Triglav Re;C0080;1427;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2018;Triglav Re;C0110;662;Zavarovanje pomoči;assistance;8;ZP
+CR;2018;Triglav Re;C0040;0,920888587;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2018;Triglav Re;C0050;1,124973296;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2018;Triglav Re;C0070;0,664703668;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2018;Triglav Re;C0080;-0,91730904;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2018;Triglav Re;C0110;1,080060423;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2019;Sava;C0040;125909;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2019;Sava;C0050;112447;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2019;Sava;C0070;97286;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2019;Sava;C0080;23096;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2019;Sava;C0110;16665;Zavarovanje pomoči;assistance;8;ZP
+CR;2019;Sava;C0040;0,936914756;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2019;Sava;C0050;0,973898815;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2019;Sava;C0070;1,059361059;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2019;Sava;C0080;0,540006928;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2019;Sava;C0110;0,949414941;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2019;Triglav;C0040;86372;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2019;Triglav;C0050;112396;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2019;Triglav;C0070;93234;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2019;Triglav;C0080;26330;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2019;Triglav;C0110;14820;Zavarovanje pomoči;assistance;8;ZP
+CR;2019;Triglav;C0040;0,86759598;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2019;Triglav;C0050;0,936705933;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2019;Triglav;C0070;0,963157217;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2019;Triglav;C0080;0,30372199;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2019;Triglav;C0110;1,055735493;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2019;Generali;C0040;17870;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2019;Generali;C0050;18375;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2019;Generali;C0070;16428;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2019;Generali;C0080;3377;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2019;Generali;C0110;2078;Zavarovanje pomoči;assistance;8;ZP
+CR;2019;Generali;C0040;0,775993285;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2019;Generali;C0050;1,085823129;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2019;Generali;C0070;0,900961773;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2019;Generali;C0080;0,812555523;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2019;Generali;C0110;0,956207892;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2019;Grawe;C0040;3233;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2019;Grawe;C0050;2793;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2019;Grawe;C0070;3425;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2019;Grawe;C0080;309;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2019;Grawe;C0110;559;Zavarovanje pomoči;assistance;8;ZP
+CR;2019;Grawe;C0040;1,164862357;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2019;Grawe;C0050;1,720730397;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2019;Grawe;C0070;0,821605839;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2019;Grawe;C0080;0,783171521;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2019;Grawe;C0110;1,033989267;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2019;Sava Re;C0040;13759;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2019;Sava Re;C0050;16755;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2019;Sava Re;C0070;47603;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2019;Sava Re;C0080;6656;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2019;Sava Re;C0110;0;Zavarovanje pomoči;assistance;8;ZP
+CR;2019;Sava Re;C0040;0,702231267;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2019;Sava Re;C0050;0,696389138;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2019;Sava Re;C0070;1,030544293;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2019;Sava Re;C0080;0,848407452;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2019;Sava Re;C0110;0;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2019;Triglav Re;C0040;13529;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2019;Triglav Re;C0050;5406;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2019;Triglav Re;C0070;50924;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2019;Triglav Re;C0080;1693;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2019;Triglav Re;C0110;1130;Zavarovanje pomoči;assistance;8;ZP
+CR;2019;Triglav Re;C0040;0,953729027;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2019;Triglav Re;C0050;1,193303737;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2019;Triglav Re;C0070;0,962159296;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2019;Triglav Re;C0080;0,444181926;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2019;Triglav Re;C0110;0,907079646;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2020;Sava;C0040;134325;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2020;Sava;C0050;122320;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2020;Sava;C0070;107458;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2020;Sava;C0080;28918;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2020;Sava;C0110;16788;Zavarovanje pomoči;assistance;8;ZP
+CR;2020;Sava;C0040;0,917997394;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2020;Sava;C0050;0,86734794;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2020;Sava;C0070;1,068231309;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2020;Sava;C0080;0,485545335;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2020;Sava;C0110;0,93656183;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2020;Triglav;C0040;92725;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2020;Triglav;C0050;116806;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2020;Triglav;C0070;99372;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2020;Triglav;C0080;26563;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2020;Triglav;C0110;17088;Zavarovanje pomoči;assistance;8;ZP
+CR;2020;Triglav;C0040;0,980221084;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2020;Triglav;C0050;0,858603154;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2020;Triglav;C0070;0,891277221;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2020;Triglav;C0080;0,337499529;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2020;Triglav;C0110;1,011587079;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2020;Generali;C0040;54050;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2020;Generali;C0050;58131;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2020;Generali;C0070;44793;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2020;Generali;C0080;12015;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2020;Generali;C0110;7200;Zavarovanje pomoči;assistance;8;ZP
+CR;2020;Generali;C0040;0,915430157;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2020;Generali;C0050;0,964820836;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2020;Generali;C0070;1,045386556;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2020;Generali;C0080;0,662089055;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2020;Generali;C0110;0,932083333;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2020;Grawe;C0040;3430;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2020;Grawe;C0050;3036;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2020;Grawe;C0070;3719;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2020;Grawe;C0080;376;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2020;Grawe;C0110;514;Zavarovanje pomoči;assistance;8;ZP
+CR;2020;Grawe;C0040;1,146355685;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2020;Grawe;C0050;1,583333333;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2020;Grawe;C0070;1,029040065;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2020;Grawe;C0080;0,492021277;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2020;Grawe;C0110;1,208171206;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2020;Sava Re;C0040;14730;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2020;Sava Re;C0050;18011;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2020;Sava Re;C0070;54961;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2020;Sava Re;C0080;8955;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2020;Sava Re;C0110;0;Zavarovanje pomoči;assistance;8;ZP
+CR;2020;Sava Re;C0040;0,62539036;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2020;Sava Re;C0050;0,601854422;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2020;Sava Re;C0070;1,071887338;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2020;Sava Re;C0080;0,576884422;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2020;Sava Re;C0110;0;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2020;Triglav Re;C0040;10268;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2020;Triglav Re;C0050;5087;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2020;Triglav Re;C0070;53563;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2020;Triglav Re;C0080;1801;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2020;Triglav Re;C0110;915;Zavarovanje pomoči;assistance;8;ZP
+CR;2020;Triglav Re;C0040;0,994546163;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2020;Triglav Re;C0050;0,964419108;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2020;Triglav Re;C0070;0,934245655;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2020;Triglav Re;C0080;0,490838423;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2020;Triglav Re;C0110;0,87431694;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2021;Sava;C0040;123099;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2021;Sava;C0050;127232;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2021;Sava;C0070;117780;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2021;Sava;C0080;25466;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2021;Sava;C0110;18316;Zavarovanje pomoči;assistance;8;ZP
+CR;2021;Sava;C0040;0,797561312;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2021;Sava;C0050;0,875597334;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2021;Sava;C0070;0,949881134;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2021;Sava;C0080;0,884551952;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2021;Sava;C0110;0,989844944;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2021;Triglav;C0040;91495;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2021;Triglav;C0050;117304;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2021;Triglav;C0070;99370;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2021;Triglav;C0080;26118;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2021;Triglav;C0110;16917;Zavarovanje pomoči;assistance;8;ZP
+CR;2021;Triglav;C0040;0,629870485;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2021;Triglav;C0050;0,872152697;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2021;Triglav;C0070;0,923447721;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2021;Triglav;C0080;0,628417184;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2021;Triglav;C0110;1,117751374;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2021;Generali;C0040;51742;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2021;Generali;C0050;66235;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2021;Generali;C0070;46581;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2021;Generali;C0080;12848;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2021;Generali;C0110;7029;Zavarovanje pomoči;assistance;8;ZP
+CR;2021;Generali;C0040;0,859456534;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2021;Generali;C0050;0,956760021;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2021;Generali;C0070;0,868057792;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2021;Generali;C0080;0,721201743;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2021;Generali;C0110;1,055057618;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2021;Grawe;C0040;5676;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2021;Grawe;C0050;5438;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2021;Grawe;C0070;3921;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2021;Grawe;C0080;404;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2021;Grawe;C0110;565;Zavarovanje pomoči;assistance;8;ZP
+CR;2021;Grawe;C0040;1,072586328;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2021;Grawe;C0050;1,411916146;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2021;Grawe;C0070;0,97296608;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2021;Grawe;C0080;0,643564356;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2021;Grawe;C0110;0,87079646;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2021;Sava Re;C0040;15072;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2021;Sava Re;C0050;20599;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2021;Sava Re;C0070;61119;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2021;Sava Re;C0080;7665;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2021;Sava Re;C0110;22;Zavarovanje pomoči;assistance;8;ZP
+CR;2021;Sava Re;C0040;0,497147028;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2021;Sava Re;C0050;0,66765377;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2021;Sava Re;C0070;0,832457992;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2021;Sava Re;C0080;1,054403131;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2021;Sava Re;C0110;0,045454545;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2021;Triglav Re;C0040;9210;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2021;Triglav Re;C0050;5311;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2021;Triglav Re;C0070;57399;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2021;Triglav Re;C0080;1871;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2021;Triglav Re;C0110;892;Zavarovanje pomoči;assistance;8;ZP
+CR;2021;Triglav Re;C0040;0,888925081;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2021;Triglav Re;C0050;0,826209753;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2021;Triglav Re;C0070;1,204864196;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2021;Triglav Re;C0080;0,640833779;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2021;Triglav Re;C0110;1,053811659;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2022;Sava;C0040;125460;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2022;Sava;C0050;139348;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2022;Sava;C0070;117917;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2022;Sava;C0080;21022;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2022;Sava;C0110;22420;Zavarovanje pomoči;assistance;8;ZP
+CR;2022;Sava;C0040;0,920970827;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2022;Sava;C0050;0,921843155;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2022;Sava;C0070;0,998872088;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2022;Sava;C0080;0,319617544;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2022;Sava;C0110;1,119223907;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2022;Triglav;C0040;91514;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2022;Triglav;C0050;120594;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2022;Triglav;C0070;102949;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2022;Triglav;C0080;28713;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2022;Triglav;C0110;18135;Zavarovanje pomoči;assistance;8;ZP
+CR;2022;Triglav;C0040;0,795506698;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2022;Triglav;C0050;0,942260809;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2022;Triglav;C0070;0,860698016;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2022;Triglav;C0080;0,495663985;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2022;Triglav;C0110;1,316515026;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2022;Generali;C0040;54413;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2022;Generali;C0050;72224;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2022;Generali;C0070;48995;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2022;Generali;C0080;14133;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2022;Generali;C0110;7803;Zavarovanje pomoči;assistance;8;ZP
+CR;2022;Generali;C0040;0,995570911;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2022;Generali;C0050;1,048584958;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2022;Generali;C0070;0,874905603;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2022;Generali;C0080;0,504422274;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2022;Generali;C0110;1,229655261;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2022;Grawe;C0040;5418;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2022;Grawe;C0050;5653;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2022;Grawe;C0070;4362;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2022;Grawe;C0080;443;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2022;Grawe;C0110;684;Zavarovanje pomoči;assistance;8;ZP
+CR;2022;Grawe;C0040;1,03820598;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2022;Grawe;C0050;1,479391474;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2022;Grawe;C0070;0,860155892;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2022;Grawe;C0080;0,388261851;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2022;Grawe;C0110;0,871345029;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2022;Sava Re;C0040;14061;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2022;Sava Re;C0050;21124;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2022;Sava Re;C0070;62385;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2022;Sava Re;C0080;5249;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2022;Sava Re;C0110;-24;Zavarovanje pomoči;assistance;8;ZP
+CR;2022;Sava Re;C0040;0,747457507;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2022;Sava Re;C0050;0,713359212;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2022;Sava Re;C0070;0,927995512;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2022;Sava Re;C0080;0,678795961;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2022;Sava Re;C0110;0;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2022;Triglav Re;C0040;6665;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2022;Triglav Re;C0050;7825;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2022;Triglav Re;C0070;1905;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2022;Triglav Re;C0080;3128;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2022;Triglav Re;C0110;523;Zavarovanje pomoči;assistance;8;ZP
+CR;2022;Triglav Re;C0040;1,057464366;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2022;Triglav Re;C0050;0,918977636;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2022;Triglav Re;C0070;1,023097113;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2022;Triglav Re;C0080;0,672634271;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2022;Triglav Re;C0110;0,715105163;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2023;Sava;C0040;144605;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2023;Sava;C0050;169248;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2023;Sava;C0070;111194;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2023;Sava;C0080;19456;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2023;Sava;C0110;28985;Zavarovanje pomoči;assistance;8;ZP
+CR;2023;Sava;C0040;0,968597213;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2023;Sava;C0050;1,025672386;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2023;Sava;C0070;1,464269655;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2023;Sava;C0080;0,743575247;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2023;Sava;C0110;0,980921166;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2023;Triglav;C0040;100596;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2023;Triglav;C0050;137280;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2023;Triglav;C0070;109099;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2023;Triglav;C0080;31016;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2023;Triglav;C0110;23517;Zavarovanje pomoči;assistance;8;ZP
+CR;2023;Triglav;C0040;0,47228185;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2023;Triglav;C0050;1,21414627;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2023;Triglav;C0070;1,872904426;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2023;Triglav;C0080;1,031274181;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2023;Triglav;C0110;1,225751584;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2023;Generali;C0040;60467;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2023;Generali;C0050;76925;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2023;Generali;C0070;56756;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2023;Generali;C0080;16083;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2023;Generali;C0110;11146;Zavarovanje pomoči;assistance;8;ZP
+CR;2023;Generali;C0040;0,770006781;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2023;Generali;C0050;1,055534612;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2023;Generali;C0070;1,015205441;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2023;Generali;C0080;0,579680408;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2023;Generali;C0110;0,982415216;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2023;Grawe;C0040;6104;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2023;Grawe;C0050;7107;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2023;Grawe;C0070;4995;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2023;Grawe;C0080;492;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2023;Grawe;C0110;1563;Zavarovanje pomoči;assistance;8;ZP
+CR;2023;Grawe;C0040;1,007372215;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2023;Grawe;C0050;1,560011257;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2023;Grawe;C0070;1,76036036;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2023;Grawe;C0080;0,961382114;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2023;Grawe;C0110;1,247600768;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2023;Sava Re;C0040;15429;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2023;Sava Re;C0050;25599;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2023;Sava Re;C0070;57358;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2023;Sava Re;C0080;2754;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2023;Sava Re;C0110;0,001;Zavarovanje pomoči;assistance;8;ZP
+CR;2023;Sava Re;C0040;0,851448571;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2023;Sava Re;C0050;0,897261612;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2023;Sava Re;C0070;1,08126155;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2023;Sava Re;C0080;1,224037763;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2023;Sava Re;C0110;0;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2023;Triglav Re;C0040;12097;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2023;Triglav Re;C0050;7326;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2023;Triglav Re;C0070;91865;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2023;Triglav Re;C0080;919;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2023;Triglav Re;C0110;1995;Zavarovanje pomoči;assistance;8;ZP
+CR;2023;Triglav Re;C0040;1,539720592;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2023;Triglav Re;C0050;1,216352716;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2023;Triglav Re;C0070;1,043476841;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2023;Triglav Re;C0080;1;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2023;Triglav Re;C0110;0,98245614;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2024;Sava;C0040;178810;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2024;Sava;C0050;201142;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2024;Sava;C0070;129974;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2024;Sava;C0080;22225;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2024;Sava;C0110;35635;Zavarovanje pomoči;assistance;8;ZP
+CR;2024;Sava;C0040;0,868116996;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2024;Sava;C0050;0,927916596;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2024;Sava;C0070;1,054580147;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2024;Sava;C0080;0,715590551;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2024;Sava;C0110;0,947299004;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2024;Triglav;C0040;126040;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2024;Triglav;C0050;156676;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2024;Triglav;C0070;114714;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2024;Triglav;C0080;32349;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2024;Triglav;C0110;27553;Zavarovanje pomoči;assistance;8;ZP
+CR;2024;Triglav;C0040;0,819017772;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2024;Triglav;C0050;0,919553729;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2024;Triglav;C0070;1,114798542;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2024;Triglav;C0080;0,554823951;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2024;Triglav;C0110;0,956665336;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2024;Generali;C0040;64279;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2024;Generali;C0050;90030;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2024;Generali;C0070;62611;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2024;Generali;C0080;16938;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2024;Generali;C0110;12660;Zavarovanje pomoči;assistance;8;ZP
+CR;2024;Generali;C0040;0,779974797;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2024;Generali;C0050;0,944140842;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2024;Generali;C0070;0,845282778;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2024;Generali;C0080;0,740937537;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2024;Generali;C0110;0,992338073;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2024;Grawe;C0040;11419;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2024;Grawe;C0050;15267;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2024;Grawe;C0070;5494;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2024;Grawe;C0080;603;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2024;Grawe;C0110;3231;Zavarovanje pomoči;assistance;8;ZP
+CR;2024;Grawe;C0040;0,772747176;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2024;Grawe;C0050;1,194406236;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2024;Grawe;C0070;1,156352384;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2024;Grawe;C0080;1,36318408;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2024;Grawe;C0110;1,090374497;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2024;Sava Re;C0040;19231;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2024;Sava Re;C0050;28124;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2024;Sava Re;C0070;65397;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2024;Sava Re;C0080;5136;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2024;Sava Re;C0110;35;Zavarovanje pomoči;assistance;8;ZP
+CR;2024;Sava Re;C0040;0,988560137;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2024;Sava Re;C0050;0,523289717;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2024;Sava Re;C0070;0,88167653;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2024;Sava Re;C0080;2,475661994;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2024;Sava Re;C0110;0,657142857;Zavarovanje pomoči;assistance;8;ZP
+PREMIJA;2024;Triglav Re;C0040;18978;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+PREMIJA;2024;Triglav Re;C0050;14922;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+PREMIJA;2024;Triglav Re;C0070;99853;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+PREMIJA;2024;Triglav Re;C0080;1521;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+PREMIJA;2024;Triglav Re;C0110;2185;Zavarovanje pomoči;assistance;8;ZP
+CR;2024;Triglav Re;C0040;1,140109601;Zavarovanje avtomobilske odgovornosti;motor vehicle liability insurance;1;AO
+CR;2024;Triglav Re;C0050;1,615534111;Druga zavarovanja motornih vozil;other motor insurance;2;DMZ
+CR;2024;Triglav Re;C0070;0,713929476;Požarno in drugo škodno zavarovanje;fire and other damage to property insurance;4;POZ
+CR;2024;Triglav Re;C0080;4,122287968;Splošno zavarovanje odgovornosti;general liability insurance;5;SZO
+CR;2024;Triglav Re;C0110;1,167505721;Zavarovanje pomoči;assistance;8;ZP
